@@ -1,0 +1,9 @@
+{
+  "name": "KosKu — Aplikasi Manajemen Kos Otomatis",
+  "short_name": "KosKu",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b7a53",
+  "lang": "id-ID"
+}
